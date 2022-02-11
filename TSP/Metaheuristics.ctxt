@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Metaheuristics
+comment1.params=fileName
+comment1.target=java.util.List\ readFileInList(java.lang.String)
+comment2.params=solution\ currRMatrix\ solutionSize
+comment2.target=int[][]\ generateRMatrix(int[],\ int[][],\ int)
+comment3.params=RMatrix\ solutionSize
+comment3.target=void\ printRMatrix(int[][],\ int)
+comment4.params=randSolution\ solutionSize
+comment4.target=void\ printRandSolution(int[],\ int)
+comment5.params=solutionSize
+comment5.target=int[]\ randomSolutionGenerator(int)
+comment6.params=solutionSize
+comment6.target=int[][]\ initRMatrixZ(int)
+comment7.params=
+comment7.target=void\ testgenerateRMatrix()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
