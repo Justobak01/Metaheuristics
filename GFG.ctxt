@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GFG
+comment0.text=Code\ Form\ geeksforgeeks.com
+comment1.params=binary\ id
+comment1.target=void\ printBinary(int[],\ int)
+comment2.params=num
+comment2.target=int[]\ decimalToBinary(int)
+comment3.params=binary_encoded_solution\ index
+comment3.target=int[]\ neighbor_generator(int[],\ int)
+comment4.params=binary_solution\ numiter_max
+comment4.target=int[]\ meta_iter_best(int[],\ int)
+comment5.params=
+comment5.target=void\ test_meta_iter_best()
+comment6.params=
+comment6.target=void\ test_neighbor_generator()
+comment7.params=Binary_rep
+comment7.target=double\ binToDecimal(int[])
+comment8.params=random_binary
+comment8.target=double\ objective_function(int[])
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
