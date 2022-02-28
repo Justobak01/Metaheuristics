@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MaxOnes
+comment1.params=state\ ind\ subpopulation\ threadnum
+comment1.target=void\ evaluate(ec.EvolutionState,\ ec.Individual,\ int,\ int)
+numComments=2

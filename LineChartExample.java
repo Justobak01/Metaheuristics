@@ -17,9 +17,9 @@ public class LineChartExample extends JFrame {
     DefaultCategoryDataset dataset = createDataset();  
     // Create chart  
     JFreeChart chart = ChartFactory.createLineChart(  
-        "Algorithm Optimization Function", // Chart title  
-        "Number of iterations", // X-Axis Label  
-        "Score", // Y-Axis Label  
+        "Algorithm Optimization", // Chart title  
+        "Generation", // X-Axis Label  
+        "Fitness", // Y-Axis Label  
         dataset  
         );  
   
